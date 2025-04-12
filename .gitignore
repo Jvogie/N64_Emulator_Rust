@@ -1,0 +1,12 @@
+*.md
+# Compiled output
+/target/
+
+# Optional: OS-specific files (can add others if needed)
+.DS_Store
+Thumbs.db
+
+# Optional: Editor/IDE specific files
+.vscode/
+*.swp
+*.swo
